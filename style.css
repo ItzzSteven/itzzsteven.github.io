@@ -1,0 +1,5 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden; /* optional, to hide scrollbars on the main page */
+}
